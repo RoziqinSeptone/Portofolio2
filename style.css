@@ -1,0 +1,71 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 1330px;
+  height:768x;
+}
+
+#logo {
+  background-color: limegreen;
+  text-align: center;
+  padding: 10px;
+  margin: 7px;
+  color: white;
+  height: 80px;
+}
+
+#Header {
+  height: 80px;
+  text-align: center;
+  background-color: limegreen;
+  font-size: 24px;
+  padding: 10px;
+  margin: 7px;
+  color:white;s
+}
+
+#nav{
+  background-color:#efefef;  
+  text-align:center;
+  padding:10px;
+  margin:10px;
+  height:30px;
+}
+
+#nav li{
+  list-style-type: none;
+  display: inline;
+}
+
+#nav a{
+  padding:20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: underline;
+  color:black;
+}
+
+#Image{
+  background-color:#cfcaca;
+  padding: 10px;
+  margin:7px;  
+  text-align: center;
+}
+
+.Content{
+  background-color:#efefef;  
+  text-align:justify;
+  padding:10px;
+  margin:10px; 
+}
+
+#footer{
+  background-color:#1f1f1f;
+  display: block;
+  color:white;
+  padding: 10px;
+  margin:7px;
+}
+
+#footer a{
+    text-decoration: none;
+    color:white;
+    float:inherit;}
